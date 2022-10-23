@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(25, 40, 40);
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: cadetblue;
+
+}
+
+.textcounter{
+    margin: 13px 29px;
+    padding: 30px 40px;
+
+}
+
+#text{
+    border-radius: 5px;
+}
